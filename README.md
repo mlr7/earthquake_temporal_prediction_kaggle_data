@@ -12,8 +12,8 @@ For all of the details of the Kaggle compettion, check out the official site,
 
 Note up front that the official competition ended on June 3, 2019, so we are not going to win any money as we sit here working on this in July 2019. Despite the lack of direct monetary reward, there is still a ton of value to be gained by diving into this facinating dataset. And maybe even more so now that all of the official entries are in and we can learn from what has been tried and what approaches had the most sucess in the official competition.          
 
-The data for this earthquake prediction challenge is huge. 9.83 GB on my laptop. Go get the data yourself from the Kaggle site,
+The data for this earthquake prediction challenge is huge. The training data is 9.83 GB on my machine. Go get the data yourself from the Kaggle site,
 
         https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
 
-and place the data in the data_in folder to run the code in these notebooks. 
+and put it somewhere and update the "data_path" variable in the notebooks so that the code here will work. 
