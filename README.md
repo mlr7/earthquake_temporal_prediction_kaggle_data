@@ -17,3 +17,7 @@ The data for this earthquake prediction challenge is huge. The training data is 
         https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
 
 and put it somewhere and update the "data_path" variable in the notebooks so that the code here will work. 
+
+## Test Data Viz
+
+![6 randomly selected test data segments. ](/img/test-data-pic.png)
